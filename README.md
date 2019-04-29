@@ -1,4 +1,4 @@
-# Prointerview
-Coding Examples for www.prointerview.info. 
+# Interview Sortout
+Coding Examples for https://interviewsortout.com/
 
-website : www.prointerview.info
+website : https://interviewsortout.com/
